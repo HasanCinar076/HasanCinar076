@@ -26,4 +26,4 @@ I am building my skills toward becoming a **Full Stack Developer**, with a stron
 
 ---
 
-_"Strive not to be a success, but rather to be of value."_ — Albert Einstein
+
