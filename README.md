@@ -1,27 +1,34 @@
-# Hello, I'm Hasan Çınar! 👋
+# Hasan Cinar
+AI/ML Engineer | M.Sc. Candidate in Software Engineering
 
-## 🚀 About Me
-I'm a passionate **Web Developer** and **Software Developer** currently pursuing an M.Eng. in Software Engineering at Tomas Bata University in Zlín, Czech Republic.  
-I am building my skills toward becoming a **Full Stack Developer**, with a strong focus on real-world applications, clean code, and solving real-world problems.
+I build applied AI systems using LLMs, RAG, and NLP, with a focus on reliability, relevance, and latency.
 
-## 📚 Technical Skills
-- **Web Development:** HTML, CSS, JavaScript, React, Node.js
-- **Backend Development:** Node.js, Express, SQL, MongoDB (basic knowledge)
-- **Software Development:** Building CLI apps and web applications
-- **Artificial Intelligence and Machine Learning:** Foundational knowledge and strong interest
-- **Cloud and Network Technologies:** Basic understanding of cloud platforms and networking
+I am currently pursuing a Master’s degree in Information Technologies (Software Engineering) at Tomas Bata University in Zlin, Czech Republic, and I am open to entry-level AI/ML Engineer roles and internships.
 
-## 🌱 I’m currently learning
-- Deepening my knowledge in full stack development (especially React, Node.js, and SQL)
-- Exploring advanced AI and machine learning frameworks
-- Actively improving my Czech language skills
+## Current Focus
+- Designing and evaluating a multilingual, source-grounded RAG chatbot for academic knowledge access.
+- Building end-to-end pipelines with chunking, embeddings, reranking, Chroma vector DB, FastAPI, and Streamlit.
+- Measuring retrieval relevance, answer quality, latency, and user impact.
 
-## 📫 How to reach me
-- **GitHub:** [HasanCinar076](https://github.com/HasanCinar076)
-- **LinkedIn:** [Hasan Çınar](https://www.linkedin.com/in/hasan-çınar)
+## Tech Stack
+- Languages: Python, C++ (basic)
+- AI/ML: Applied ML, NLP, LLMs, embeddings, vector search, RAG design/evaluation
+- Frameworks/Libraries: LangChain, LlamaIndex, PyTorch, TensorFlow, Pandas, NumPy, Matplotlib
+- Databases: SQL, Vector DBs (Chroma)
+- Tools/Platforms: Git, GitHub, Google Colab, VS Code, OpenAI Codex, APIs/SDKs, Azure (basic)
 
-## ✈️ Fun Facts
-- I am an active member of the Erasmus Student Network, embracing cultural exchange and teamwork.
-- In my free time, I enjoy hiking, traveling, and exploring new cultures for inspiration.
+## Featured Project
+- [FitForecast - Gym Attendance Prediction](https://github.com/HasanCinar076/FitForecast)  
+  Built and evaluated a machine learning pipeline for gym attendance prediction using historical data, preprocessing, feature engineering, and model validation.
 
----
+## Contact
+- Email: [hcinar076@gmail.com](mailto:hcinar076@gmail.com)
+- LinkedIn: [linkedin.com/in/hasan-cinar](https://www.linkedin.com/in/hasan-%C3%A7%C4%B1nar/)
+- GitHub: [github.com/HasanCinar076](https://github.com/HasanCinar076)
+
+## Interests
+
+- Applied Artificial Intelligence  
+- Machine Learning Systems  
+- LLM Applications and RAG Systems  
+- AI System Design and Evaluation  
